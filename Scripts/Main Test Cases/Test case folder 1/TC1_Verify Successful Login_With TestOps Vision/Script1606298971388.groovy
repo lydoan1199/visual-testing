@@ -45,12 +45,15 @@ WebUI.takeElementScreenshotAsCheckpoint('Login Dialog With Data', LoginObject)
 WebUI.comment('When he logins to CURA system')
 
 WebUI.click(findTestObject('Page_Login/btn_Login'))
+WebUI.takeElementScreenshotAsCheckpoint('Check point 5', LoginObject)
+
 
 WebUI.comment('Then he should be able to login successfully')
 
-WebUI.takeElementScreenshotAsCheckpoint('Check point 3', LoginObject)
 
 landingPage = WebUI.verifyElementPresent(findTestObject('Page_CuraAppointment/div_Appointment'), GlobalVariable.G_Timeout)
+
+WebUI.takeElementScreenshotAsCheckpoint('Check point 4', LoginObject)
 
 WebUI.closeBrowser()
 

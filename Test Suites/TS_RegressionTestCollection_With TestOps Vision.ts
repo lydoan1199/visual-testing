@@ -13,7 +13,7 @@
             <runConfigurationId>Chrome (headless)</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/TS_RegressionTest_With TestOps Vision</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TS folder 1/TS Folder 1.1/TS Folder 1.2/TS_RegressionTest_With TestOps Vision</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

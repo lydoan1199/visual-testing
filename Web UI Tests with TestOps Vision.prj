@@ -6,7 +6,7 @@
    <UUID>a9e3b825-0d4f-43ba-9815-78ad5f43fadd</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/ly.doan/Katalon Studio/Visual/Web UI Tests with TestOps Vision.prj</projectFileLocation>
+   <projectFileLocation>/Users/ly.doan/visual-testing/Web UI Tests with TestOps Vision.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
