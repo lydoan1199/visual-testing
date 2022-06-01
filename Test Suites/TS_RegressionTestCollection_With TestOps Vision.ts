@@ -21,7 +21,7 @@
             <profileName>default</profileName>
             <runConfigurationId>Chrome (headless)</runConfigurationId>
          </configuration>
-         <runEnabled>true</runEnabled>
+         <runEnabled>false</runEnabled>
          <testSuiteEntity>Test Suites/TS folder 1/TS Folder 1.1/TS Folder 1.2/TS 2</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
