@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Test execution 87
+Description: https://testops.qa.katalon.com/team/112/project/106/executions/87
+|| Test Case || Environment || Status || Duration || Result Link ||
+            | [TC1_Verify Successful Login|https://testops.qa.katalon.com/team/112/project/106/test-design/test-cases/961-tc1_verify-successful-login] | TestCloud Windows 10 64bit   | FAILED | 4s | [Details|https://testops.qa.katalon.com/team/112/project/106/executions/4428/test-result/23644-tc1_verify-successful-login] |
+            | [TC2_Verify Successful Appointment|https://testops.qa.katalon.com/team/112/project/106/test-design/test-cases/962-tc2_verify-successful-appointment] | TestCloud Windows 10 64bit   | FAILED | 2s | [Details|https://testops.qa.katalon.com/team/112/project/106/executions/4428/test-result/23645-tc2_verify-successful-appointment] |
+            | [TC3_Visual Testing Example|https://testops.qa.katalon.com/team/112/project/106/test-design/test-cases/963-tc3_visual-testing-example] | TestCloud Windows 10 64bit   | FAILED | 2s | [Details|https://testops.qa.katalon.com/team/112/project/106/executions/4428/test-result/23646-tc3_visual-testing-example] |
+</description>
+   <name>LT-97 Test execution 87</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10019&quot;:&quot;0|i000l3:&quot;},&quot;status&quot;:{&quot;id&quot;:10000,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://lydoandev.atlassian.net/&quot;,&quot;self&quot;:&quot;https://lydoandev.atlassian.net/rest/api/2/status/10000&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://lydoandev.atlassian.net/rest/api/2/project/10000&quot;,&quot;key&quot;:&quot;LT&quot;,&quot;id&quot;:10000,&quot;name&quot;:&quot;Ly Test&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Test execution 87&quot;,&quot;description&quot;:&quot;https://testops.qa.katalon.com/team/112/project/106/executions/87\n|| Test Case || Environment || Status || Duration || Result Link ||\n            | [TC1_Verify Successful Login|https://testops.qa.katalon.com/team/112/project/106/test-design/test-cases/961-tc1_verify-successful-login] | TestCloud Windows 10 64bit   | FAILED | 4s | [Details|https://testops.qa.katalon.com/team/112/project/106/executions/4428/test-result/23644-tc1_verify-successful-login] |\n            | [TC2_Verify Successful Appointment|https://testops.qa.katalon.com/team/112/project/106/test-design/test-cases/962-tc2_verify-successful-appointment] | TestCloud Windows 10 64bit   | FAILED | 2s | [Details|https://testops.qa.katalon.com/team/112/project/106/executions/4428/test-result/23645-tc2_verify-successful-appointment] |\n            | [TC3_Visual Testing Example|https://testops.qa.katalon.com/team/112/project/106/test-design/test-cases/963-tc3_visual-testing-example] | TestCloud Windows 10 64bit   | FAILED | 2s | [Details|https://testops.qa.katalon.com/team/112/project/106/executions/4428/test-result/23646-tc3_visual-testing-example] |\n&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;doanthily221199@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Thị Ly Đoàn&quot;,&quot;self&quot;:&quot;https://lydoandev.atlassian.net/rest/api/2/user?accountId\u003d5dbc0f5693536d0c3579e7a2&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://lydoandev.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://lydoandev.atlassian.net/rest/api/2/issue/LT-97/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[{&quot;self&quot;:&quot;https://lydoandev.atlassian.net/rest/api/2/version/10001&quot;,&quot;id&quot;:10001,&quot;description&quot;:&quot;&quot;,&quot;name&quot;:&quot;Release 1.1.2&quot;,&quot;isArchived&quot;:false,&quot;isReleased&quot;:false}],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://lydoandev.atlassian.net/rest/api/2/issue/10096&quot;,&quot;key&quot;:&quot;LT-97&quot;,&quot;id&quot;:10096}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>d42913fc-a808-474a-9db3-038fd29c6d4c</testCaseGuid>
+</TestCaseEntity>
